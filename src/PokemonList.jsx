@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 
 const PokemonList = ({ pokemonList }) => {
 
-  console.log('eevee?', pokemonList[134])
 
   return (
     <div className="list-container">
